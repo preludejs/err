@@ -1,6 +1,6 @@
 {
   "name": "@prelude/err",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Err module.",
   "type": "module",
   "main": "index.js",
