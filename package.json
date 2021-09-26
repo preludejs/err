@@ -19,9 +19,9 @@
     "lib",
     "stdlib",
     "library",
-    "cmp",
-    "compare",
-    "sort"
+    "err",
+    "error",
+    "go-like"
   ],
   "author": "Mirek Rusin (https://github.com/mirek)",
   "license": "MIT",

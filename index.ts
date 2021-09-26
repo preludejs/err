@@ -20,6 +20,7 @@ export {
   message,
   of,
   severity,
+  Severity,
   stack,
   warn
 }
