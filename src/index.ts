@@ -3,6 +3,7 @@ import * as Severity from './severity.js'
 import Err from './err.js'
 import error from './error.js'
 import fatal from './fatal.js'
+import instance from './instance.js'
 import message from './message.js'
 import of from './of.js'
 import stack from './stack.js'
@@ -17,6 +18,7 @@ export {
   Err as t,
   error,
   fatal,
+  instance,
   message,
   of,
   severity,
