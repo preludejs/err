@@ -1,6 +1,6 @@
-import * as Err from '../cjs/index.js'
+import * as Err from './index.js'
 
-test('err', () => {
+test('warn', () => {
   expect(Err.warn('foo', 'bar')).toMatchObject({
     message: 'bar',
     severity: 'warn',
